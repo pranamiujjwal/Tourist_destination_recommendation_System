@@ -1,8 +1,7 @@
 from django.shortcuts import render
 from django.http import JsonResponse
 
-from django import forms
-from .utils import *
+from .utils import getCityList
 
 def index_view(request):
   if request.method=="GET":
