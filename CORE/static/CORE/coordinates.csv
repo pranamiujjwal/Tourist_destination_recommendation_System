@@ -1,0 +1,777 @@
+0,"Nanjangud, Mysore, Karnataka, India",12.12,76.68
+1,"Chittorgarh, Rajasthan, India",24.879999,74.629997
+2,"Ratnagiri, Maharashtra, India",16.994444,73.300003
+3,"Goregaon, Mumbai, Maharashtra, India",19.155001,72.849998
+4,"Pindwara, Rajasthan, India",24.7945,73.055
+5,"Raipur, Chhattisgarh, India",21.25,81.629997
+6,"Gokak, Karnataka, India",16.1667,74.833298
+7,"Lucknow, Uttar Pradesh, India",26.85,80.949997
+8,"Delhi, India",28.679079,77.06971
+9,"Mumbai, Maharashtra, India",19.07609,72.877426
+10,"Sagar, Karnataka, India",14.16704,75.040298
+11,"Jalpaiguri, West Bengal, India",26.540457,88.719391
+12,"Pakur, Jharkhand, India",24.633568,87.849251
+13,"Sardarshahar, Rajasthan, India",28.440554,74.493011
+14,"Sirohi, Rajasthan, India",24.882618,72.858894
+15,"Jaysingpur, Maharashtra, India",16.779877,74.556374
+16,"Ramanagara, Karnataka, India",12.715035,77.281296
+17,"Chikkaballapura, Karnataka, India",13.432515,77.727478
+18,"Channapatna, Karnataka, India",12.651805,77.208946
+19,"Surendranagar, Gujarat, India",22.728392,71.637077
+20,"Thiruvalla, Kerala, India",9.383452,76.574059
+21,"Ranebennur, Karnataka, India",14.623801,75.621788
+22,"Karaikal, Puducherry, India",10.92544,79.838005
+23,"Belgaum, Karnataka, India",15.852792,74.498703
+24,"Chatrapur, Odisha, India",19.354979,84.986732
+25,"Suri, West Bengal, India",23.905445,87.52462
+26,"Bhubaneswar, Odisha, India",20.296059,85.824539
+27,"Mahuva, Gujarat, India",21.105001,71.771645
+28,"Jagadhri, Haryana, India",30.172716,77.299492
+29,"Barh, Bihar, India",25.477585,85.709091
+30,"Bhusawal, Maharashtra, India",21.045521,75.801094
+31,"Alipurduar, West Bengal, India",26.49189,89.5271
+32,"Kollam, Kerala, India",8.893212,76.614143
+33,"Medinipur, West Bengal, India",22.430889,87.321487
+34,"Patan, Gujarat, India",23.849325,72.126625
+35,"Mettur, Tamil Nadu, India",11.786253,77.800781
+36,"Huliyar, Karnataka, India",13.583274,76.540154
+37,"Harihar, Karnataka, India",14.530457,75.801094
+38,"Rasayani, Maharashtra, India",18.901457,73.176132
+39,"Haringhata, West Bengal, India",22.96051,88.567406
+40,"Kushtagi, Karnataka, India",15.756595,76.192696
+41,"Jadugora, Jharkhand, India",22.656015,86.352882
+42,"Orai, Uttar Pradesh, India",25.989836,79.450035
+43,"Surajpur, Chhattisgarh, India",23.223047,82.87056
+44,"Ambernath, Maharashtra, India",19.186354,73.191948
+45,"Malerkotla, Punjab, India",30.525005,75.890121
+46,"Jorapokhar, Jharkhand, India",22.422455,85.760651
+47,"Vizianagaram, Andhra Pradesh, India",18.106659,83.395554
+48,"Durg, Chhattisgarh, India",21.190449,81.28492
+49,"Himmatnagar, Gujarat, India",23.597969,72.969818
+50,"Sambhal, Uttar Pradesh, India",28.590361,78.571762
+51,"Harnaut, Bihar, India",25.369179,85.53006
+52,"Port Blair, Andaman and Nicobar Islands, India",11.623377,92.726486
+53,"Suti, West Bengal, India",24.618393,88.024338
+54,"Banswara, Rajasthan, India",23.546757,74.43383
+55,"Batumi, Adjara, Georgia",41.643414,41.6399
+56,"Manikchak, West Bengal, India",25.077787,87.900375
+57,"Roorkee, Uttarakhand, India",29.854263,77.888
+58,"Kavali, Andhra Pradesh, India",14.913181,79.992981
+59,"Dharmavaram, Andhra Pradesh, India",14.413745,77.712616
+60,"Siddipet, Telangana, India",18.101904,78.852074
+61,"Dhanpuri, Madhya Pradesh, India",23.173939,81.565125
+62,"Chirala, Andhra Pradesh, India",15.812074,80.355377
+63,"Markapur, Andhra Pradesh, India",15.764501,79.259491
+64,"Chalakudy, Kerala, India",10.311879,76.331978
+65,"Gondal, Gujarat, India",21.961946,70.792297
+66,"Bhimavaram, Andhra Pradesh, India",16.544893,81.52124
+67,"Jalgaon Jamod, Maharashtra, India",21.04954,76.532028
+68,"Paltan Bazaar, Guwahati, Assam, India",26.182245,91.754723
+69,"Hodal, Haryana, India",27.897551,77.384117
+70,"Ausa, Maharashtra, India",18.245655,76.505356
+71,"Mahidpur, Madhya Pradesh, India",23.486839,75.659157
+72,"Gurdaspur, Punjab, India",32.041943,75.405334
+73,"Domchanch, Jharkhand, India",24.47438,85.688744
+74,"Barjora, West Bengal, India",23.427221,87.287018
+75,"Saint Dnyaneshwar Garden and Paithan park, Paithen, Maharashtra, India",19.487707,75.380768
+76,"Sinnar, Maharashtra, India",19.85306,74.000633
+77,"Guntakal, Andhra Pradesh, India",15.167409,77.373627
+78,"Lalgola, West Bengal, India",24.417534,88.250343
+79,"Hoshangabad, Madhya Pradesh, India",22.744108,77.736969
+80,"Proddatur, Andhra Pradesh, India",14.752805,78.552757
+81,"RL Infotechh & Solutions, Durgapur, India",23.520399,87.311897
+82,"Pali, Rajasthan, India",25.771315,73.323685
+83,"Palwal, Haryana, India",28.148735,77.332024
+84,"Gohana, Haryana, India",29.138407,76.693245
+85,"Munger, Bihar, India",25.37571,86.474373
+86,"Yavatmal, Maharashtra, India",20.388794,78.120407
+87,"Bokaro Steel City, Jharkhand, India",23.669296,86.151115
+88,"Jetpur, Gujarat, India",21.761524,70.627625
+89,"Basirhat, West Bengal, India",22.657402,88.86718
+90,"Konnagar, Mirpur, West Bengal, India",22.700474,88.319069
+91,"Ranchi, Jharkhand, India",23.344315,85.296013
+92,"Gudur, Andhra Pradesh, India",14.146319,79.850388
+93,"Gola Gokarannath, Uttar Pradesh, India",28.078636,80.471588
+94,"Shikohabad, Uttar Pradesh, India",27.108416,78.584602
+95,"Tirumangalam, Tamil Nadu, India",9.823619,77.986565
+96,"Anakaputhur, Sriperumbudur, Tamil Nadu, India",12.946366,79.959244
+97,"Suryapet, Telangana, India",17.143908,79.623924
+98,"Udupi, Karnataka, India",13.340881,74.742142
+99,"Nandyal, Andhra Pradesh, India",15.478569,78.483093
+100,"Begusarai, Bihar, India",25.416676,86.129379
+101,"Contai, West Bengal, India",21.779188,87.744629
+102,"Naya Raipur, Chhattisgarh, India",21.164993,81.775307
+103,"Payradanga, West Bengal, India",23.125587,88.546867
+104,"Maheshtala, West Bengal, India",22.511976,88.250992
+105,"Vaniyambadi, Tamil Nadu, India",12.695032,78.621887
+106,"Shahdol, Madhya Pradesh, India",23.302189,81.356804
+107,"Aruppukkottai, Tamil Nadu, India",9.515625,78.100014
+108,"Salipur, Odisha, India",20.484348,86.119194
+109,"Sasaram, Bihar, India",24.953514,84.011787
+110,"Mahuva, Gujarat, India",21.092159,71.770462
+111,"Bihta, Bihar, India",25.563322,84.869804
+112,"Dahod, Gujarat, India",22.835602,74.255989
+113,"Najibabad, Uttar Pradesh, India",29.607981,78.342674
+114,"Bagaha, Bihar, India",27.122196,84.072235
+115,"Jamalpur, Bihar, India",25.312717,86.490608
+116,"Fatehpur, Uttar Pradesh, India",25.920074,80.809998
+117,"Dindigul, Tamil Nadu, India",10.365581,77.970657
+118,"Chakradharpur, Jharkhand, India",22.668312,85.625511
+119,"Porbandar, Gujarat, India",21.640575,69.605965
+120,"Ghatal, West Bengal, India",22.663696,87.746803
+121,"Khidirpur, Kolkata, West Bengal, India",22.542061,88.318954
+122,"Mandya, Karnataka, India",12.523731,76.894684
+123,"Dahanu, Maharashtra, India",19.990751,72.743675
+124,"Sri Muktsar Sahib, Punjab, India",30.480042,74.518204
+125,"Kanchipuram, Tamil Nadu, India",12.834174,79.703644
+126,"Dhanpur, Gujarat, India",22.633492,74.095993
+127,"Bengaluru, Karnataka, India",12.971599,77.594566
+128,"Muzaffarnagar, Uttar Pradesh, India",29.471397,77.696732
+129,"Chhatarpur, Madhya Pradesh, India",24.916355,79.581184
+130,"Bongaigaon, Assam, India",26.500999,90.535233
+131,"RAK Tiles, Ner Chowk, Himachal Pradesh, India",31.604889,76.919533
+132,"Nilanga, Maharashtra, India",18.125875,76.750969
+133,"Amreli, Gujarat, India",21.603176,71.222084
+134,"Bulandshahar, Uttar Pradesh, India",28.411331,77.848434
+135,"Kharagpur, West Bengal, India",22.34601,87.231972
+136,"Arrah, Bihar, India",25.556044,84.660332
+137,"Fatehpur, Rajasthan, India",27.99502,74.961792
+138,"Seoni, Madhya Pradesh, India",22.086868,79.543488
+139,"Siliguri, West Bengal, India",26.732311,88.410286
+140,"Mangaluru, Karnataka, India",12.915605,74.855965
+141,"Kandi, West Bengal, India",23.9468,88.049713
+142,"Khammam, Telangana, India",17.247253,80.151443
+143,"Morshi, Maharashtra, India",21.324196,78.013832
+144,"Vijaypur, Jammu and Kashmir, India",32.564522,75.023148
+145,"Santha, Uttar Pradesh, India",26.994154,83.034798
+146,"Chalisgaon, Maharashtra, India",20.464079,74.996857
+147,"Etawah, Uttar Pradesh, India",26.811712,79.004692
+148,"Simlapal, West Bengal, India",22.916706,87.070351
+149,"Lakhimpur, Uttar Pradesh, India",27.94908,80.782402
+150,"Masaurhi, Bihar, India",25.35128,85.031143
+151,"Bhatta, Paldi, Ahmedabad, Gujarat, India",23.00795,72.553757
+152,"Sultanpur, Uttar Pradesh, India",26.264776,82.072708
+153,"Kotulpur, West Bengal, India",23.012794,87.593948
+154,"Pithampur, Madhya Pradesh, India",22.610683,75.680862
+155,"Bela Pratapgarh, Uttar Pradesh, India",25.912968,81.991653
+156,"Ghazipur, Uttar Pradesh, India",25.584042,83.577019
+157,"Buxar, Bihar, India",25.564711,83.977745
+158,"Baran, Rajasthan, India",25.101145,76.513161
+159,"Saideep Enterprises, Ambad Nashik, Maharashtra, India",19.969227,73.743195
+160,"Hazaribagh, Jharkhand, India",23.99662,85.36911
+161,"Rudrapur, Uttarakhand, India",28.978298,79.399612
+162,"Success Point, Bhadravati, Maharashtra, India",20.112093,79.118698
+163,"Balaghat, Madhya Pradesh, India",21.812876,80.18383
+164,"Thodupuzha, Kerala, India",9.897157,76.713409
+165,"Kothagudem, Telangana, India",17.554356,80.619736
+166,"Debra, West Bengal, India",22.369043,87.55442
+167,"Khambhat, Gujarat, India",22.318083,72.618988
+168,"Kalaburagi, Karnataka, India",17.320486,76.839752
+169,"Palampur, Himachal Pradesh, India",32.110542,76.536224
+170,"Bargarh, Odisha, India",21.342585,83.624199
+171,"Jaunpur, Uttar Pradesh, India",25.748695,82.698441
+172,"Bahraich, Uttar Pradesh, India",27.570839,81.598022
+173,"Shegaon, Maharashtra, India",20.792713,76.694328
+174,"Ballari, Karnataka, India",15.139393,76.92144
+175,"Hapur, Uttar Pradesh, India",28.730579,77.775879
+176,"Kashipur, Uttarakhand, India",29.210421,78.96183
+177,"Sikandra, Uttar Pradesh, India",26.367811,79.629158
+178,"Palakkad, Kerala, India",10.784703,76.653145
+179,"Almora, Uttarakhand, India",29.594189,79.653893
+180,"Dhar, Madhya Pradesh, India",22.601292,75.302467
+181,"Ameerpet, Hyderabad, Telangana, India",17.437462,78.448288
+182,"Georai, Maharashtra, India",19.263334,75.752426
+183,"Kodad, Telangana, India",16.99708,79.967361
+184,"Kalaigaon, Assam, India",26.57448,91.975243
+185,"Newasa, Maharashtra, India",19.551146,74.928162
+186,"Jalgaon, Maharashtra, India",21.004194,75.563942
+187,"Mahasamund, Chhattisgarh, India",21.109133,82.0979
+188,"Giridih, Jharkhand, India",24.184713,86.302193
+189,"Purnea, Bihar, India",25.771103,87.482185
+190,"Kotputli, Rajasthan, India",27.703669,76.201195
+191,"Jhalawar, Rajasthan, India",24.597349,76.16098
+192,"Sitarganj, Uttarakhand, India",28.923548,79.700722
+193,"Barauda, Chhattisgarh, India",21.191774,81.718285
+194,"Sangareddy, Telangana, India",17.611629,78.08181
+195,"Azamgarh, Uttar Pradesh, India",26.072067,83.185654
+196,"Suratgarh, Rajasthan, India",29.320511,73.899399
+197,"Gingee, Tamil Nadu, India",12.252576,79.416924
+198,"Samastipur, Biha, India",25.862968,85.781029
+199,"Ballia, Uttar Pradesh, India",25.758503,84.148911
+200,"Jahanabad, Bihar, India",25.213928,84.989555
+201,"Kekri, Rajasthan, India",25.973787,75.151535
+202,"Dholpur, Rajasthan, India",26.702518,77.893394
+203,"Hosur, Tamil Nadu, India",12.735126,77.829338
+204,"Bisalpur, Uttar Pradesh, India",28.293783,79.804459
+205,"Jhansi, Uttar Pradesh, India",25.436298,78.567352
+206,"Korba, Chhattisgarh, India",22.363848,82.73484
+207,"Tadepalligudem, Andhra Pradesh, India",16.814524,81.526558
+208,"Rajnandgaon, Chhattisgarh, India",21.097855,81.033707
+209,"Gumla, Jharkhand, India",23.041924,84.540833
+210,"Kuchaman City, Rajasthan, India",27.147869,74.859489
+211,"Sankari, Tamil Nadu, India",11.477696,77.873886
+212,"Forbesganj, Bihar, India",26.298552,87.265388
+213,"Thandalam, Tamil Nadu, India",12.999464,80.117729
+214,"Sahibzada Ajit Singh Nagar, Punjab, India",30.704649,76.717873
+215,"Etah, Uttar Pradesh, India",27.55875,78.662567
+216,"Nabadwip, West Bengal, India",23.406979,88.365593
+217,"Sri Ganganagar, Rajasthan, India",29.903839,73.87719
+218,"Hanamkonda, Telangana, India",18.007202,79.558296
+219,"Ramagundam, Telangana, India",18.76182,79.480904
+220,"Mau, Uttar Pradesh, India",25.949638,83.558647
+221,"Gangakhed, Maharashtra, India",18.966354,76.748077
+222,"Rahon, Punjab, India",31.052128,76.1175
+223,"Mansa, Gujarat, India",23.426788,72.657074
+224,"Narwana, Haryana, India",29.592957,76.119247
+225,"Pulivendula, Andhra Pradesh, India",14.422232,78.226341
+226,"Brahmapur, Odisha, India",19.314962,84.79409
+227,"Kadayanallur, Tamil Nadu, India",9.077854,77.345184
+228,"Bathinda, Punjab, India",30.210995,74.945473
+229,"Botad, Gujarat, India",22.170424,71.668427
+230,"Darjeeling, West Bengal, India",27.036007,88.262672
+231,"Chiplun, Maharashtra, India",17.53231,73.517792
+232,"Haldwani, Uttarakhand, India",29.219677,79.512459
+233,"Cuddalore, Tamil Nadu, India",11.744699,79.768021
+234,"Bharuch, Gujarat, India",21.705723,72.998199
+235,"Bhadohi, Uttar Pradesh, India",25.38727,82.568031
+236,"Vaijapur, Maharashtra, India",19.925682,74.728477
+237,"Vadakara, Kerala, India",11.608495,75.591705
+238,"Sitamarhi, Bihar, India",26.587299,85.501183
+239,"Rajgir, Bihar, India",25.017258,85.416161
+240,"Shimoga, Karnataka, India",13.92993,75.5681
+241,"Unnao, Uttar Pradesh, India",26.536938,80.48996
+242,"Rangia, Assam, India",26.437252,91.62011
+243,"Chandrapur, Maharashtra, India",19.970324,79.30336
+244,"Silchar, Assam, India",24.833271,92.778908
+245,"Hailakandi, Assam, India",24.68469,92.564339
+246,"Aizawl, Mizoram, India",23.727106,92.717636
+247,"South Dum Dum, West Bengal, India",22.607672,88.394493
+248,"Kavathe Mahankal, Maharashtra, India",17.006298,74.865372
+249,"Davanagere, Karnataka, India",14.464103,75.921661
+250,"Mhow, Madhya Pradesh, India",22.552437,75.756531
+251,"Moga, Punjab, India",30.81646,75.171707
+252,"Bhatpara, Kolkata, West Bengal, India",22.859726,88.404839
+253,"Batala, Punjab, India",31.823462,75.205063
+254,"Farrukhabad, Uttar Pradesh, India",27.387049,79.588127
+255,"Nohar, Rajasthan, India",29.185776,74.771782
+256,"Jharia, Jharkhand, India",23.742628,86.41114
+257,"Hoshiarpur, Punjab, India",31.527355,75.913673
+258,"Balurghat, West Bengal, India",25.237284,88.783058
+259,"Madhubani, Bihar, India",26.347883,86.071861
+260,"Khurai, Madhya Pradesh, India",24.043468,78.330353
+261,"Upleta, Gujarat, India",21.741323,70.28112
+262,"Saharanpur, Uttar Pradesh, India",29.959694,77.549057
+263,"Ghaziabad, Uttar Pradesh, India",28.667856,77.449791
+264,"Sambalpur, Odisha, India",21.468185,83.975403
+265,"Saharsa, Bihar, India",25.883495,86.600624
+266,"Gohpur, Assam, India",26.880077,93.60833
+267,"Jamalpur, West Bengal, India",23.061089,87.992584
+268,"Narsapur, Andhra Pradesh, India",16.432983,81.696617
+269,"Malappuram, Kerala, India",11.072035,76.074005
+270,"Gauribidanur, Karnataka, India",13.611159,77.51696
+271,"Chikkaballapura, Karnataka, India",13.435455,77.731476
+272,"Dibrugarh, Assam, India",27.472834,94.911964
+273,"Gangtok, Sikkim, India",27.338936,88.606506
+274,"Balotra, Rajasthan, India",25.83087,72.24012
+275,"Narsampet, Telangana, India",17.928122,79.894531
+276,"Kozhikode, Kerala, India",11.258753,75.780411
+277,"Hindaun City, Rajasthan, India",26.731142,77.033752
+278,"Kumbakonam, Tamil Nadu, India",10.959815,79.380898
+279,"Satna, Madhya Pradesh, India",24.579716,80.832176
+280,"Chhindwara, Madhya Pradesh, India",22.057163,78.938202
+281,"Ongole, Andhra Pradesh, India",15.505723,80.049919
+282,"Padrauna, Uttar Pradesh, India",26.898392,83.979713
+283,"Akola, Maharashtra, India",20.707228,77.00296
+284,"Kalwan, Maharashtra, India",20.492281,74.026009
+285,"Sircilla, Telangana, India",18.38662,78.802246
+286,"Rohtak, Haryana, India",28.895515,76.606613
+287,"Anandapur, Odisha, India",21.2155,86.1222
+288,"DCKAP Technologies, Anna Nagar, Chennai, Tamil Nadu, India",13.090994,80.224998
+289,"Garhshankar, Punjab, India",31.213682,76.144012
+290,"Jagtial, Telangana, India",18.794905,78.912872
+291,"Dausa, Rajasthan, India",26.894478,76.334824
+292,"Muradnagar, Uttar Pradesh, India",28.771646,77.507561
+293,"Srivilliputhur, Tamil Nadu, India",9.512137,77.634087
+294,"Paramakudi, Tamil Nadu, India",9.548395,78.591637
+295,"Barabanki, Uttar Pradesh, India",26.937834,81.188324
+296,"Secunderabad, Telangana, India",17.440325,78.498894
+297,"Mirzapur, Uttar Pradesh, India",25.133699,82.56443
+298,"Virudhachalam, Tamil Nadu, India",11.519588,79.325157
+299,"Jhunjhunu, Rajasthan, India",28.128876,75.399506
+300,"Karera, Madhya Pradesh, India",25.454794,78.133957
+301,"Kottayam, Kerala, India",9.591441,76.522171
+302,"Shivpuri, Madhya Pradesh, India",25.42412,77.65799
+303,"Amalner, Maharashtra, India",21.04241,75.063873
+304,"Durgapur, West Bengal, India",23.53344,87.32193
+305,"Gola Gokrannath Kheri, Uttar Pradesh, India",28.080379,80.466644
+306,"Dharwad, Karnataka, India",15.460252,75.010284
+307,"Vapi, Gujarat, India",20.385181,72.911453
+308,"Firozabad, Uttar Pradesh, India",27.159101,78.39576
+309,"Vasco da Gama, Goa, India",15.386033,73.84404
+310,"Asansol, West Bengal, India",23.673944,86.952393
+311,"Tenkasi, Tamil Nadu, India",8.959021,77.312935
+312,"Srikakulam, Andhra Pradesh, India",18.296974,83.896782
+313,"Hassan, Karnataka, India",13.009711,76.102898
+314,"Churu, Rajasthan, India",28.29229,74.966583
+315,"Bulandshahr, Uttar Pradesh, India",28.406963,77.849831
+316,"Hinganghat, Maharashtra, India",20.550573,78.841141
+317,"Lakhisarai, Bihar, India",25.168901,86.092987
+318,"Mahoba, Uttar Pradesh, India",25.292509,79.872665
+319,"Sirsa, Haryana, India",29.536535,75.025505
+320,"Ranaghat, West Bengal, India",23.174049,88.563934
+321,"Udgir, Maharashtra, India",18.3934,77.113144
+322,"Ratlam, Madhya Pradesh, India",23.334169,75.037636
+323,"Nimbahera, Rajasthan, India",24.620001,74.68
+324,"Robertsganj, Uttar Pradesh, India",24.685001,83.068352
+325,"Khandwa, Madhya Pradesh, India",21.825733,76.35257
+326,"Rajendra Nagar, Cuttack, Odisha, India",20.450474,85.905533
+327,"Mehsana, Gujarat, India",23.586761,72.369949
+328,"Fatehabad, Haryana, India",29.511778,75.455215
+329,"Raiganj, West Bengal, India",25.61853,88.125587
+330,"Junnar, Maharashtra, India",19.206861,73.875801
+331,"Unchahar, Uttar Pradesh, India",25.9,81.300003
+332,"Banka, Bihar, India",24.885483,86.920731
+333,"Jamner, Maharashtra, India",20.809378,75.778923
+334,"Khamgaon, Maharashtra, India",20.711622,76.566132
+335,"Mehkar, Maharashtra, India",20.149822,76.574036
+336,"Rewa, Madhya Pradesh, India",24.530727,81.29911
+337,"Karnal, Haryana, India",29.685629,76.990547
+338,"Ichalkaranji, Maharashtra, India",16.709002,74.456078
+339,"Bihar Sharif, Bihar, India",25.19935,85.517609
+340,"Cooch Behar, West Bengal, India",26.323921,89.451088
+341,"Imphal, Manipur, India",24.813967,93.950279
+342,"Viramgam, Gujarat, India",23.125837,72.057442
+343,"Anantnag, Jammu and Kashmir, India",33.729729,75.14978
+344,"Panaji, Goa, India",15.496777,73.827827
+345,"Anand, Gujarat, India",22.554029,72.948936
+346,"Manmad, Maharashtra, India",20.251549,74.438354
+347,"Daryapur, Maharashtra, India",20.92207,77.326698
+348,"Arvi, Maharashtra, India",20.634085,79.140388
+349,"Paratwada, Maharashtra, India",21.27306,77.523422
+350,"Bardoli, Gujarat, India",21.124857,73.11261
+351,"Bodhgaya, Bihar, India",24.696135,84.986954
+352,"Chabua, Assam, India",27.48,95.18
+353,"Jamkhandi, Karnataka, India",16.504227,75.290932
+354,"Burdwan, West Bengal, India",23.232513,87.863419
+355,"Tumakuru, Karnataka, India",13.338263,77.10141
+356,"Nayagarh, Odisha, India",20.127028,85.105057
+357,"Sivasagar, Assam, India",26.98,94.629997
+358,"Wani, Maharashtra, India",20.067541,78.958054
+359,"Karwar, Karnataka, India",14.801439,74.124069
+360,"Kapurthala, Punjab, India",31.379999,75.379997
+361,"Ganderbal, Jammu and Kashmir, India",34.216496,74.771942
+362,"Guna, Madhya Pradesh, India",24.65,77.32
+363,"Khanna, Punjab, India",30.702877,76.220222
+364,"Mahbubnagar, Telangana, India",16.737509,78.008125
+365,"Nalgonda, Telangana, India",17.05662,79.268333
+366,"Theni, Tamil Nadu, India",10.010366,77.476814
+367,"Eluru, Andhra Pradesh, India",16.703285,81.100388
+368,"Pusad, Maharashtra, India",19.912676,77.56691
+369,"Shamshabad, Telangana, India",17.25116,78.437737
+370,"Aurangabad, Maharashtra, India",19.901054,75.352478
+371,"Bankura, West Bengal, India",23.233774,87.08725
+372,"Renukoot, Uttar Pradesh, India",24.220198,83.035957
+373,"Anakapalle, Andhra Pradesh, India",17.686001,83.008781
+374,"Sikandrabad, Uttar Pradesh, India",28.452393,77.697205
+375,"Saidabad, New Delhi, Delhi, India",28.526592,77.290169
+376,"Yelahanka, Bengaluru, Karnataka, India",13.094454,77.586014
+377,"Pithoragarh, Uttarakhand, India",29.582861,80.218185
+378,"Vidisha, Madhya Pradesh, India",23.530001,77.82
+379,"Warora, Maharashtra, India",20.23,79.0
+380,"Jhagadia, Gujarat, India",21.719477,73.151009
+381,"Morbi, Gujarat, India",22.811989,70.823616
+382,"Bhopal, Madhya Pradesh, India",23.259933,77.412613
+383,"Agartala, Tripura, India",23.829321,91.277847
+384,"Bhandara, Maharashtra, India",21.17,79.650002
+385,"Baramati, Maharashtra, India",18.150663,74.576782
+386,"Makrana, Rajasthan, India",27.029617,74.716324
+387,"Panipat, Haryana, India",29.398928,76.977081
+388,"Sehore, Madhya Pradesh, India",23.198437,77.095184
+389,"Madanapalle, Andhra Pradesh, India",13.55,78.5
+390,"Madhopur, Punjab, India",32.365288,75.59729
+391,"Silchar, Cachar, India",24.833946,92.779282
+392,"Bhuj, Gujarat, India",23.242001,69.666931
+393,"Shahjahanpur, Uttar Pradesh, India",27.883743,79.912247
+394,"Raebareli, Uttar Pradesh, India",26.230299,81.240891
+395,"Dhanbad, Jharkhand, India",23.795399,86.42704
+396,"Hasanpur, Uttar Pradesh, India",28.719999,78.279999
+397,"Jabalpur, Madhya Pradesh, India",23.185884,79.97438
+398,"Shahada, Maharashtra, India",21.546185,74.470009
+399,"Mysuru, Karnataka, India",12.29581,76.639381
+400,"Tiruvannamalai, Tamil Nadu, India",12.228628,79.066544
+401,"Panskura, West Bengal, India",22.395582,87.741882
+402,"Bijnor, Uttar Pradesh, India",29.372442,78.135849
+403,"Rajpura, Punjab, India",30.483997,76.593948
+404,"Pipariya, Madhya Pradesh, India",22.762886,78.352478
+405,"Auraiya, Uttar Pradesh, India",26.469999,79.519997
+406,"Bahadurgarh, Haryana, India",28.68,76.919998
+407,"Avinashi, Tamil Nadu, India",11.191447,77.268883
+408,"Thanesar, Haryana, India",29.962072,76.817825
+409,"Malout, Punjab, India",30.191515,74.497864
+410,"Pilkhuwa, Uttar Pradesh, India",28.711969,77.654457
+411,"Jind, Haryana, India",29.316668,76.316666
+412,"Santipur, West Bengal, India",23.255541,88.437363
+413,"Sathankulam, Tamil Nadu, India",8.444186,77.912804
+414,"Amravati, Maharashtra, India",20.937424,77.779549
+415,"Hathras, Uttar Pradesh, India",27.6,78.050003
+416,"Arcot, Tamil Nadu, India",12.904441,79.31916
+417,"Khurja, Uttar Pradesh, India",28.252222,77.851784
+418,"Bhuvanagiri, Telangana, India",17.518345,78.885956
+419,"Kavesar, Thane West, Thane, Maharashtra, India",19.262466,72.974106
+420,"Rajgangpur, Odisha, India",22.205206,84.584251
+421,"Fazilka, Punjab, India",30.403648,74.027962
+422,"Buldana, Maharashtra, India",20.536846,76.18087
+423,"Amroha, Uttar Pradesh, India",28.902397,78.465042
+424,"Nedumangad, Kerala, India",8.603333,77.002777
+425,"Sawaimadhopur, Rajasthan, India",25.983334,76.366669
+426,"Akot, Maharashtra, India",21.1,77.059998
+427,"Thane West, Thane, Maharashtra, India",19.226662,72.983833
+428,"Balasore, Odisha, India",21.494978,86.942657
+429,"Doddaballapura, Karnataka, India",13.298757,77.540817
+430,"Mettupalayam, Tamil Nadu, India",11.289087,76.940971
+431,"Mallaguri, Siliguri, West Bengal, India",26.743464,88.416252
+432,"Sitapur, Uttar Pradesh, India",27.57509,80.663765
+433,"Jaora, Madhya Pradesh, India",23.644524,75.131035
+434,"Dhuri, Punjab, India",30.370001,75.870003
+435,"Sitalkuchi, West Bengal, India",26.169069,89.180122
+436,"Dombivli, Maharashtra, India",19.2094,73.093948
+437,"Pathankot, Punjab, India",32.265942,75.646873
+438,"Thiruvananthapuram, Kerala, India",8.524139,76.936638
+439,"Beawar, Rajasthan, India",26.100735,74.319077
+440,"Ajmer, Rajasthan, India",26.449896,74.639915
+441,"Jagraon, Punjab, India",30.780001,75.480003
+442,"Budaun, Uttar Pradesh, India",28.033709,79.120544
+443,"Pandharpur, Maharashtra, India",17.674553,75.323723
+444,"Damoh, Madhya Pradesh, India",23.839054,79.441025
+445,"Chintamani, Karnataka, India",13.401969,78.055138
+446,"Baramulla, Jammu and Kashmir, India",34.202148,74.348259
+447,"Murshidabad, West Bengal, India",24.175903,88.280182
+448,"Bheemili, Andhra Pradesh, India",17.887518,83.445679
+449,"Patiala, Punjab, India",30.34,76.379997
+450,"Kochi, Kerala, India",9.939093,76.270523
+451,"Muzaffarpur, Bihar, India",26.121473,85.368752
+452,"Hoskote, Karnataka, India",13.07,77.800003
+453,"Kalol, Gujarat, India",22.606001,73.462997
+454,"Kakinada, Andhra Pradesh, India",16.989065,82.247467
+455,"Panchkula, Haryana, India",30.695202,76.854172
+456,"Greater Noida, Uttar Pradesh, India",28.474388,77.50399
+457,"Orai, Uttar Pradesh, India",25.98,79.470001
+458,"Barwani, Madhya Pradesh, India",22.030001,74.900002
+459,"Hubballi, Karnataka, India",15.364708,75.123955
+460,"Udamanda, Uttarakhand, India",30.321989,79.195412
+461,"Deoghar, Jharkhand, India",24.482775,86.695175
+462,"Indore Bhopal Road, Indore Naka",23.200001,77.080002
+463,"North Paravoor, Kerala, India",10.140487,76.23053
+464,"Hazira, Gujarat, India",21.116226,72.651802
+465,"Bargadi Magath, Uttar Pradesh, India",26.983795,80.92907
+466,"Tarabai Park, Kolhapur, Maharashtra, India",16.713512,74.248749
+467,"Kanchrapara, West Bengal, India",22.94923,88.420921
+468,"Puttur, Karnataka, India",12.768676,75.207062
+469,"Ambala City, Haryana, India",30.37818,76.776695
+470,"Faridkot, Punjab, India",30.678186,74.739555
+471,"Osmanabad, Maharashtra, India",18.186066,76.041939
+472,"Raichur, Karnataka, India",16.200829,77.362289
+473,"Chitradurga, Karnataka, India",14.23,76.400002
+474,"Mysore division, Karnataka, India",12.311827,76.652985
+475,"Lalitpur, Uttar Pradesh, India",24.68786,78.412018
+476,"Agar Malwa, Madhya Pradesh, India",23.710348,76.010178
+477,"Shamli, Uttar Pradesh, India",29.448055,77.31028
+478,"Mansoorabad, Hyderabad, Telangana, India",17.351372,78.565407
+479,"Tirupati, Andhra Pradesh, India",13.629065,79.424446
+480,"Sojat, Rajasthan, India",25.923853,73.665131
+481,"Aurangabad, Bihar, India",24.75,84.370003
+482,"Gondia, Maharashtra, India",21.459801,80.195
+483,"Bhadravati, Karnataka, India",13.84,75.702003
+484,"Balrampur, Uttar Pradesh, India",27.429707,82.176804
+485,"Manikchak, West Bengal, India",25.077787,87.900375
+486,"Kawardha, Chhattisgarh, India",22.008951,81.224342
+487,"Nellore, Andhra Pradesh, India",14.442599,79.986458
+488,"Karimnagar, Telangana, India",18.438555,79.128838
+489,"Lonavala, Maharashtra, India",18.74806,73.407219
+490,"Sujangarh, Rajasthan, India",27.696903,74.452972
+491,"Kothrud, Pune, Maharashtra, India",18.50989,73.807182
+492,"Haridwar, Uttarakhand, India",29.94569,78.164246
+493,"Vashi, Maharashtra, India",19.077065,72.998993
+494,"Moradabad, Uttar Pradesh, India",28.841064,78.795319
+495,"Chirimiri, Chhattisgarh, India",23.18795,82.354164
+496,"Gorakhpur, Uttar Pradesh, India",26.765844,83.364944
+497,"Siwan, Bihar, India",26.219622,84.356659
+498,"Jharsuguda, Odisha, India",21.85,84.029999
+499,"Adambakkam, Chennai, Tamil Nadu, India",12.981241,80.20945
+500,"Chhapra, Bihar, India",25.779566,84.749886
+501,"Surat, Gujarat, India",21.17024,72.831062
+502,"Sheopur, Madhya Pradesh, India",25.67,76.699997
+503,"Phagwara, Punjab, India",31.22402,75.770798
+504,"Sendhwa, Madhya Pradesh, India",21.681898,75.094269
+505,"Daman, Daman and Diu, India",20.397373,72.832802
+506,"Narnaul, Haryana, India",28.065796,76.101479
+507,"Deesa, Gujarat, India",24.258503,72.190674
+508,"Nabha, Punjab, India",30.373674,76.145187
+509,"Zirakpur, Haryana, India",30.642803,76.816902
+510,"Chachiyawas, Rajasthan, India",26.570478,74.674438
+511,"Kila, Khurja, Uttar Pradesh, India",28.23801,77.854912
+512,"Raigarh, Chhattisgarh, India",21.9,83.400002
+513,"Haldia, West Bengal, India",22.066673,88.069809
+514,"Bidar, Karnataka, India",17.92,77.519722
+515,"Nipani, Karnataka, India",16.4,74.383301
+516,"Dhamtari, Chhattisgarh, India",20.709999,81.550003
+517,"Bilaspur, Chhattisgarh, India",22.078642,82.152328
+518,"Jagdalpur, Chhattisgarh, India",19.07,82.029999
+519,"Bhavani, Tamil Nadu, India",11.452434,77.693253
+520,"Jaisalmer, Rajasthan, India",26.911661,70.922928
+521,"Puthoor, Kerala, India",9.04,76.709999
+522,"Berhampore, West Bengal, India",24.098827,88.267929
+523,"Mira Bhayandar, Maharashtra, India",19.295233,72.854393
+524,"Khadki, Pune, Maharashtra, India",18.569937,73.850639
+525,"Barasat, Kolkata, West Bengal, India",22.726156,88.47496
+526,"Sonepat, Haryana, India",28.928574,77.091492
+527,"Nawapara Nagar, Chhattisgarh, India",20.973513,81.857948
+528,"Bally, West Bengal, India",22.655149,88.340553
+529,"Ghansoli, Navi Mumbai, Maharashtra, India",19.125362,72.999199
+530,"Aligarh, Uttar Pradesh, India",27.900383,78.072281
+531,"Kadi, Gujarat, India",23.29785,72.331001
+532,"Machilipatnam, Andhra Pradesh, India",16.17,81.129997
+533,"Jamui, Bihar, India",24.92,86.220001
+534,"Amalsad, Gujarat, India",20.817595,72.954918
+535,"Pathardi Phata, Nashik, Maharashtra, India",19.946922,73.765434
+536,"Nadiad, Gujarat, India",22.700001,72.870003
+537,"Chikhli, Maharashtra, India",20.349098,76.265289
+538,"Krishnagiri, Tamil Nadu, India",12.518611,78.213737
+539,"Kochi, Kerala, India",9.931233,76.267303
+540,"Katni, Madhya Pradesh, India",23.833717,80.420609
+541,"Ooty, Tamil Nadu, India",11.41,76.699997
+542,"Hajipur, Bihar, India",25.68,85.220001
+543,"Malad East, Mumbai, Maharashtra, India",19.180874,72.857452
+544,"Davangere, Karnataka, India",14.470586,75.914154
+545,"Karjat, Maharashtra, India",18.920902,73.323097
+546,"Kattuvilai, Tamil Nadu, India",8.158933,77.336746
+547,"Kalamassery, Ernakulam, India",10.051969,76.315773
+548,"Bijapur, Karnataka, India",16.827545,75.725327
+549,"Kajamalai, Tiruchirappalli, Tamil Nadu, India",10.775632,78.69236
+550,"Malda, West Bengal, India",25.010841,88.141098
+551,"Dadabari, Kota, Rajasthan, India",25.155169,75.827248
+552,"Anantapur, Andhra Pradesh, India",14.685564,77.595406
+553,"Nawada, Bihar, India",24.879999,85.529999
+554,"Bikaner, Rajasthan, India",28.027138,73.302155
+555,"Falta, West Bengal, India",22.296404,88.120995
+556,"Puri, Odisha, India",19.817743,85.828629
+557,"Vikramasingapuram, Tamil Nadu, India",8.699142,77.411041
+558,"Faizabad, Uttar Pradesh, India",26.77,82.150002
+559,"Kurukshetra, Haryana, India",29.969513,76.878281
+560,"Jalukbari, Guwahati, Assam, India",26.144358,91.642067
+561,"Naini, Uttar Pradesh, India",25.393978,81.85405
+562,"Jaipur, Rajasthan, India",26.92207,75.778885
+563,"Kamptee, Maharashtra, India",21.207769,79.184052
+564,"Dharavi, Mumbai, Maharashtra, India",19.044218,72.85598
+565,"Chomu, Rajasthan, India",27.17,75.720001
+566,"Mudhol, Karnataka, India",16.333309,75.28582
+567,"Jamnagar, Gujarat, India",22.470701,70.057732
+568,"Hojai, Assam, India",26.006807,92.866402
+569,"Agra, Uttar Pradesh, India",27.17667,78.008072
+570,"Morena, Madhya Pradesh, India",26.5,78.0
+571,"Kalyan, Maharashtra, India",19.242439,73.120193
+572,"Dadri, Uttar Pradesh, India",28.54619,77.556213
+573,"Hansi, Haryana, India",29.102377,75.965996
+574,"Bundi, Rajasthan, India",25.430513,75.649902
+575,"Ujjain, Madhya Pradesh, India",23.1793,75.784912
+576,"Ejipura, Bengaluru, Karnataka, India",12.942621,77.627121
+577,"Noida, Uttar Pradesh, India",28.535517,77.391029
+578,"Bongaon, West Bengal, India",23.07,88.82
+579,"Dalkhola, West Bengal, India",25.874945,87.845551
+580,"Katihar, Bihar, India",25.533508,87.583748
+581,"Bhankrota, Jaipur, Rajasthan, India",26.87063,75.693398
+582,"Andheri, Maharashtra, India",19.116625,72.862358
+583,"Tuticorin, Tamil Nadu, India",8.764166,78.134834
+584,"Pollachi, Tamil Nadu, India",10.657274,77.010666
+585,"Thane, Maharashtra, India",19.21833,72.978088
+586,"North Lakhimpur, Assam, India",27.236317,94.09584
+587,"Secunderabad, Telangana, India",17.43993,78.498276
+588,"Ennore, Chennai, Tamil Nadu, India",13.206524,80.327225
+589,"Tirupattur, Tamil Nadu, India",12.498351,78.560196
+590,"Motihari, Bihar, India",26.65,84.916664
+591,"Tikamgarh, Madhya Pradesh, India",24.756807,78.839264
+592,"Borivali, Mumbai, India",19.228825,72.854118
+593,"Datia, Madhya Pradesh, India",25.665325,78.460938
+594,"Jorhat, Assam, India",26.757874,94.209824
+595,"Cuttack, Odisha, India",20.462521,85.882988
+596,"Vadodara, Gujarat, India",22.310696,73.192635
+597,"Sikar, Rajasthan, India",27.615406,75.125885
+598,"Dewas, Madhya Pradesh, India",22.962267,76.050797
+599,"Alwar, Rajasthan, India",27.560932,76.625015
+600,"Malegaon, Maharashtra, India",20.560797,74.52507
+601,"Bapatla, Andhra Pradesh, India",15.896622,80.460434
+602,"Hanumangarh, Rajasthan, India",29.625996,74.287491
+603,"Devlali, Maharashtra, India",19.906166,73.824265
+604,"Sunam, Punjab, India",30.129999,75.800003
+605,"Vastral, Ahmedabad, Gujarat, India",22.99988,72.660614
+606,"Bareilly, Uttar Pradesh, India",28.375694,79.435959
+607,"Nanded, Maharashtra, India",19.169815,77.319717
+608,"Umred, Maharashtra, India",20.861378,79.317856
+609,"Hubli, Karnataka, India",15.371598,75.101166
+610,"Barrackpore, West Bengal, India",22.767427,88.388344
+611,"Lakhimpur, Uttar Pradesh, India",27.947819,80.772141
+612,"Shajapur, Madhya Pradesh, India",23.4333,76.266701
+613,"Jalandhar, Punjab, India",31.326015,75.57618
+614,"Gandhinagar, Gujarat, India",23.23756,72.647781
+615,"Jalaun, Uttar Pradesh, India",26.140644,79.355621
+616,"Rupnagar, Punjab, India",30.975254,76.527328
+617,"Guwahati, Assam, India",26.148043,91.731377
+618,"Bhiwani, Haryana, India",28.799046,76.133514
+619,"Koyambedu, Chennai, Tamil Nadu, India",13.07279,80.176163
+620,"Tiruchengode, Tamil Nadu, India",11.378476,77.894493
+621,"Palanpur, Gujarat, India",24.179331,72.426682
+622,"Nagercoil, Tamil Nadu, India",8.17445,77.432159
+623,"Coimbatore, Tamil Nadu, India",11.017363,76.958885
+624,"Kanpur, Uttar Pradesh, India",26.449923,80.331871
+625,"Bellampalli, Telangana, India",19.071556,79.491173
+626,"Sangli, Maharashtra, India",16.867634,74.570389
+627,"Kadapa, Andhra Pradesh, India",14.477234,78.804932
+628,"Palwan, Beed, Maharashtra, India",18.970057,75.72065
+629,"Kurnool, Andhra Pradesh, India",15.834536,78.029366
+630,"Visakhapatnam, Andhra Pradesh, India",17.686815,83.218483
+631,"Tirunelveli, Tamil Nadu, India",8.741222,77.694626
+632,"Kharar, Punjab, India",30.751278,76.637192
+633,"Vadapalani, Chennai, Tamil Nadu, India",13.052192,80.212051
+634,"Bhadrak, Odisha, India",21.051182,86.485748
+635,"Madha, Maharashtra, India",18.033587,75.522079
+636,"Bhubaneswar, Odisha, India",20.296059,85.824539
+637,"Ahmednagar, Maharashtra, India",19.101053,74.740677
+638,"Adilabad, Andhra Pradesh, India",19.6667,78.533302
+639,"Alambagh, Uttar Pradesh, India",26.805687,80.914993
+640,"Sangamner, Maharashtra, India",19.581099,74.205009
+641,"Bettiah, Bihar, India",26.799999,84.5
+642,"Thanjavur, Tamil Nadu, India",10.786999,79.137825
+643,"Amritsar, Punjab, India",31.63398,74.872261
+644,"Solapur, Maharashtra, India",17.65992,75.906387
+645,"Ghatampur, Uttar Pradesh, India",26.147612,80.170769
+646,"Islampur, West Bengal, India",26.266701,88.199997
+647,"Washim, Maharashtra, India",20.1,77.150002
+648,"Pudukkottai, Tamil Nadu, India",10.379663,78.820847
+649,"Malvan, Maharashtra, India",16.0667,73.466698
+650,"Chittoor, Rajasthan, India",24.888744,74.626923
+651,"Dehradun, Uttarakhand, India",30.316496,78.032188
+652,"Kargil, Jammu and Kashmir, India",34.556335,76.132507
+653,"Warangal, Andhra Pradesh, India",18.000055,79.588165
+654,"Kolhapur, Maharashtra, India",16.691307,74.244865
+655,"Nagaur, Rajasthan, India",27.207006,73.742294
+656,"Prayagraj, Uttar Pradesh, India",25.473034,81.878357
+657,"Pithapuram, Andhra Pradesh, India",17.112427,82.252899
+658,"Kannur, Kerala, India",11.874477,75.370369
+659,"Darbhanga, Bihar, India",26.152973,85.901413
+660,"Vellore, Tamil Nadu, India",12.934968,79.146881
+661,"Bicholim, Goa, India",15.601875,73.954636
+662,"Tirur, Kerala, India",10.914627,75.922096
+663,"Rajsamand, Rajasthan, India",25.0667,73.883301
+664,"Shrirampur, Maharashtra, India",19.620296,74.654655
+665,"Jodhpur, Rajasthan, India",26.263863,73.008957
+666,"Indore, Madhya Pradesh, India",22.719568,75.857727
+667,"Sathy, Tamil Nadu, India",11.504776,77.238396
+668,"Kothamangalam, Kerala, India",10.065206,76.629128
+669,"Srinagar, Jammu and Kashmir, India",34.083656,74.797371
+670,"Dimapur, Nagaland, India",25.906267,93.727592
+671,"Ghatampur, Uttar Pradesh, India",26.164066,80.17067
+672,"Kannauj, Uttar Pradesh, India",27.055189,79.918083
+673,"New Delhi, Delhi, India",28.6448,77.216721
+674,"Latur, Maharashtra, India",18.407957,76.576767
+675,"Mansa, Punjab, India",29.988245,75.379257
+676,"Shimla, Himachal Pradesh, India",31.104605,77.173424
+677,"Dungargarh, Rajasthan, India",28.095606,74.011116
+678,"Varanasi, Uttar Pradesh, India",25.321684,82.987289
+679,"Nashik, Maharashtra, India",19.997454,73.789803
+680,"Mandla, Madhya Pradesh, India",22.597921,80.371384
+681,"Noida, Uttar Pradesh, India",28.535517,77.391029
+682,"Udumalaipettai, Tamil Nadu, India",10.5833,77.25
+683,"Sriperumbudur, Tamil Nadu, India",12.97378,79.94133
+684,"Tiruppur, Tamil Nadu, India",11.110695,77.348045
+685,"Chennai, Tamil Nadu, India",13.067439,80.237617
+686,"Coimbatore, Tamil Nadu, India",11.004556,76.961632
+687,"Parbhani, Maharashtra, India",19.25779,76.773743
+688,"Rampur, Uttar Pradesh, India",28.802958,79.025444
+689,"Harda, Madhya Pradesh, India",22.356426,77.102737
+690,"Dharampur, Gujarat, India",20.54014,73.179214
+691,"Salem, Tamil Nadu, India",11.664325,78.146011
+692,"Chengalpattu, Tamil Nadu, India",12.693933,79.975662
+693,"Mathura, Uttar Pradesh, India",27.492413,77.673676
+694,"Namakkal, Tamil Nadu, India",11.229592,78.171158
+695,"Mangrulpir, Maharashtra, India",20.316135,77.341171
+696,"Vijayawada, Andhra Pradesh, India",16.515099,80.632095
+697,"Basti, Uttar Pradesh, India",26.822845,82.763443
+698,"Burhanpur, Madhya Pradesh, India",21.307373,76.230415
+699,"Virudhunagar, Tamil Nadu, India",9.587209,77.951431
+700,"Bhilwara, Rajasthan, India",25.346251,74.636383
+701,"Madurai, Tamil Nadu, India",9.939093,78.121719
+702,"Bhagalpur, Bihar, India",25.253391,86.989059
+703,"Tambaram, Chennai, Tamil Nadu, India",12.922915,80.127457
+704,"Sirhind, Punjab, India",30.64382,76.394119
+705,"Ajitgarh, Punjab, India",30.7076,76.715126
+706,"Purulia, West Bengal, India",23.342257,86.362839
+707,"Aland, Karnataka, India",17.570721,76.569733
+708,"Kopargaon, Maharashtra, India",19.883301,74.483299
+709,"Gwalior, Madhya Pradesh, India",26.218287,78.182831
+710,"Tenali, Andhra Pradesh, India",16.236719,80.647476
+711,"Manwath, Maharashtra, India",19.299999,76.5
+712,"Satara, Maharashtra, India",17.691401,74.000938
+713,"Kishangarh, Rajasthan, India",26.588528,74.872513
+714,"Kosumb, Maharashtra, India",17.11458,73.591805
+715,"Partur, Maharashtra, India",19.595484,76.211067
+716,"Modinagar, Uttar Pradesh, India",28.838299,77.581055
+717,"Mandi Gobindgarh, Punjab, India",30.682802,76.294212
+718,"Chimur, Maharashtra, India",20.501314,79.380173
+719,"Trimbak, Maharashtra, India",19.939142,73.536819
+720,"Jejuri, Maharashtra, India",18.269781,74.172478
+721,"Saswad, Maharashtra, India",18.344749,74.031715
+722,"Dwarka, Delhi, India",28.59214,77.046051
+723,"Junnar, Maharashtra, India",19.20928,73.872589
+724,"Beed, Maharashtra, India",18.992012,75.776138
+725,"Parli Vaijnath, Maharashtra, India",18.871204,76.535568
+726,"Villupuram, Tamil Nadu, India",11.94596,79.497414
+727,"Jammu, India",32.732998,74.864273
+728,"Thrissur, Kerala, India",10.530345,76.214729
+729,"Visakhapatnam, Andhra Pradesh, India",17.690474,83.231049
+730,"Guntur, Andhra Pradesh, India",16.314209,80.435028
+731,"Bhadgaon, Maharashtra, India",20.666668,75.23333
+732,"Banda, Uttar Pradesh, India",25.492249,80.336151
+733,"Sagar, Madhya Pradesh, India",23.83403,78.746567
+734,"Godda, Jharkhand, India",24.827778,87.211388
+735,"Rajamahendravaram, Andhra Pradesh, India",17.004393,81.783325
+736,"Kadiri, Andhra Pradesh, India",14.117532,78.15509
+737,"Howrah, West Bengal, India",22.59577,88.263641
+738,"Ahmedabad, Gujarat, India",23.033863,72.585022
+739,"New Tehri, Uttarakhand, India",30.376251,78.435379
+740,"Hyderabad, Telangana, India",17.38714,78.491684
+741,"Patna, Bihar, India",25.612677,85.158875
+742,"Chandigarh, India",30.741482,76.768066
+743,"Hisar, India",29.151861,75.721123
+744,"Junagadh, Gujarat, India",21.515471,70.456444
+745,"Halol, Gujarat, India",22.496063,73.475449
+746,"Pulwama, Jammu and Kashmir, India",33.872536,74.892853
+747,"Srinagar, Uttarakhand, India",30.221399,78.780045
+748,"Chittoor, Andhra Pradesh, India",13.217096,79.100677
+749,"Dankuni, West Bengal, India",22.671679,88.300209
+750,"Barbil, Odisha, India",22.105999,85.387459
+751,"Jalna, Maharashtra, India",19.846811,75.890633
+752,"Dhampur, Uttar Pradesh, India",29.309315,78.506248
+753,"Udaipur, Rajasthan, India",24.57127,73.691544
+754,"Ferozepur, Punjab, India",30.923433,74.610214
+755,"Virar, Maharashtra, India",19.465622,72.806099
+756,"Puducherry, India",11.916064,79.812325
+757,"Rajkot, Gujarat, India",22.308155,70.800705
+758,"Tezpur, Assam, India",26.651218,92.783813
+759,"Thalassery, Kerala, India",11.74805,75.48938
+760,"Dhule, Maharashtra, India",20.903118,74.774986
+761,"Rishikesh, Uttarakhand, India",30.08716,78.268112
+762,"Bazpur, Uttarakhand, India",29.162411,79.152168
+763,"Gonda, Uttar Pradesh, India",27.133875,81.96199
+764,"Nagpur, India",21.146633,79.08886
+765,"Gurugram, Haryana, India",28.457523,77.026344
+766,"Pune, Maharashtra, India",18.516726,73.856255
+767,"Ambikapur, Chhattisgarh, India",23.116444,83.196121
+768,"Saoner, Maharashtra, India",21.385311,78.92186
+769,"Erode, Tamil Nadu, India",11.342423,77.728165
+770,"Jamshedpur, Jharkhand, India",22.805618,86.20311
+771,"Karad, Maharashtra, India",17.286501,74.181427
+772,"Bengaluru, Karnataka, India",12.972442,77.580643
+773,"Jobat, Madhya Pradesh, India",22.4167,74.566704
+774,"Gaya, Bihar, India",24.78001,84.981827
+775,"Kolkata, West Bengal, India",22.572645,88.363892
+776,"Meerut, Uttar Pradesh, India",28.984644,77.705956
