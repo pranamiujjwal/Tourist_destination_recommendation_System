@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from django.http import JsonResponse
 
-from .utils import getCityList
+from .utils import getCityList, getRestaurantsList
 
 def index_view(request):
   if request.method=="GET":
@@ -18,6 +18,7 @@ def index_api(request, city):
     context = {
       "status":200,
       "message":"Sucessful",
-      "tourist_places": getCityList(city)
+      "tourist_places": getCityList(city),
+      "restaurants": getRestaurantsList(city)
     }
     return JsonResponse(context)

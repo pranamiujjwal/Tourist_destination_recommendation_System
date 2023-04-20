@@ -49,7 +49,8 @@
       </div>
     </div>
     
-    <div id="result"></div>  
+    <div id="Citiesresult"></div>  
+    <div id="Restaurantsresult"></div>  
     
     <div class="card mx-auto" style="width: 35rem;">
       <div class="card-body">
@@ -94,7 +95,31 @@
                 +'</table>'
               +'</div>'
             +'</div>';
-            $("#result").html(content);
+            $("#Citiesresult").html(content);
+            // Restaurants
+            var content = ''
+            +'<div class="card mx-auto" style="width: 35rem;">'
+              +'<div class="card-body">'
+                +'<h5 class="card-title">Recommended Best Restaurants Nearby</h5>'
+                +'<table class="table table-hover table-dark">'
+                  +'<tr>'
+                    +'<th style="text-align:center;">Serial No.</th>'
+                    +'<th>Restaurants</th>'
+                    +'<th>Address</th>'
+                  +'</tr>';
+                  for(var i=0; i<data.restaurants.length; i++){
+                    content += ''
+                    +'<tr>'
+                      +'<td>'+(i+1)+'</td>'
+                      +'<td>'+data.restaurants[i][0]+'</td>'
+                      +'<td>'+data.restaurants[i][1]+'</td>'
+                    +'</tr>';
+                  }
+                  content +=''
+                +'</table>'
+              +'</div>'
+            +'</div>';
+            $("#Restaurantsresult").html(content);
           }
           else{
             console.log("data not found");
