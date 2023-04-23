@@ -1,9 +1,0 @@
-#!/usr/bin/env python3 
-
-import pandas as pd
-from sklearn.cluster import KMeans
-
-restaurants_dataset = pd.read_csv("CORE/static/CORE/Restaurants.csv")
-
-x = restaurants_dataset.loc[restaurants_dataset['location'] == 'Pune', ['name','place']]
-print(x.iloc[0][1])
